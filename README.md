@@ -1,5 +1,15 @@
 
+
 # Exercise
+
+![Completed](https://img.shields.io/badge/Completed-100%25-green.svg) 
+![UnitTest](https://img.shields.io/badge/Unit%20tests-Pending-red.svg) 
+![ES6](https://img.shields.io/badge/ES6-Done-yellow.svg) 
+![Ajax](https://img.shields.io/badge/Ajax-Done-ff69b4.svg) 
+![Webpack](https://img.shields.io/badge/Webpack-Done-blue.svg) 
+
+
+
 Accordion exercise done with ES6-Webpack-JsonServer. Created a mockup file (mockup.html) to use as requeriments.
 
 ## Requeriments
@@ -48,8 +58,7 @@ $ npm run start               # starts local server with hot reloading
 
 ## Github repository
 
-<p>
-    <img src="githubLogo.png">
-    <a href="https://github.com/ibanjb/VanillaES6">Navigate to the Github repository with the source code</a>
-</p>
+![GitHub Logo](githubLogo.png)
+
+<a href="https://github.com/ibanjb/VanillaES6">Navigate to the Github repository with the source code</a>
 
