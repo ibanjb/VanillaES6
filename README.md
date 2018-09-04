@@ -55,7 +55,7 @@ yarn build
 ## Commands
 
 ```sh
-$ npm run build               # generate docs and transpile code
+$ npm run build               # generates bundler
 $ npm run start               # starts local server with hot reloading
 
 ```
