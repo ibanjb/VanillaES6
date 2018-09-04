@@ -23,6 +23,10 @@ $ npm install -g json-server            # for mock API calls
 ## To execute it in a local environment
 
 You will need to execute webpack and json-server both at same time (*). 
+
+![Ide](ide.png)
+
+
 In the 1st terminal window, run the json-server command:
 ```sh
 json-server mocks\userData.json
