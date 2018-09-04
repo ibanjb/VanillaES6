@@ -10,7 +10,7 @@
 
 
 
-Accordion exercise done with ES6-Webpack-JsonServer. Created a mockup file (mockup.html) to use as requeriments.
+Accordion exercise done with ES6-Webpack-JsonServer
 
 ## Requeriments
 You need to have install it, as global, the next libraries:
