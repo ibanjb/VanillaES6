@@ -9,8 +9,9 @@
 ![Webpack](https://img.shields.io/badge/Webpack-Done-blue.svg) 
 
 
-
 Accordion exercise done with ES6-Webpack-JsonServer. Created a mockup file (mockup.html) to use as requeriments.
+
+![GitHub Logo](screenshot.png)
 
 ## Requeriments
 You need to have install it, as global, the next libraries:
