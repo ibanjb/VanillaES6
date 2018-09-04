@@ -1,0 +1,39 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "Schibsted Spain - Exercise",
+  "author": "Iban Balasch",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibanjb/VanillaES6"    
+  },
+  "main": "exercise.js",
+  "scripts": {
+    "build": "webpack -p",
+    "start": "webpack-dev-server --mode=development"
+  },  
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^8.0.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^1.0.0",
+    "eslint": "^5.5.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.1",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "html-webpack-plugin": "^3.2.0",
+    "mini-css-extract-plugin": "^0.4.2",
+    "node-sass": "^4.9.3",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.0",
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.7"
+  }
+}
