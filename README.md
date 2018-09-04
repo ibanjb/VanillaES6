@@ -3,10 +3,10 @@
 # Exercise
 
 ![Completed](https://img.shields.io/badge/Completed-100%25-green.svg) 
-![UnitTest](https://img.shields.io/badge/Unit%20tests-Pending-red.svg) 
 ![ES6](https://img.shields.io/badge/ES6-Done-yellow.svg) 
 ![Ajax](https://img.shields.io/badge/Ajax-Done-ff69b4.svg) 
 ![Webpack](https://img.shields.io/badge/Webpack-Done-blue.svg) 
+![UnitTest](https://img.shields.io/badge/Unit%20tests-Pending-red.svg) 
 ![Docker](https://img.shields.io/badge/Docker-Pending-0765fc.svg) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Pending-cadbf7.svg) 
 
