@@ -67,5 +67,6 @@ $ npm run start               # starts local server with hot reloading
 
 ![GitHub Logo](githubLogo.png)
 
-<a href="https://github.com/ibanjb/VanillaES6">Navigate to the Github repository with the source code</a>
+
+<a href="https://ibanjb.github.io/VanillaES6/">Navigate to the Github page</a>
 
