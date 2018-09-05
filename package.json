@@ -1,7 +1,7 @@
 {
   "name": "exercise",
   "version": "1.0.0",
-  "description": "Schibsted Spain - Exercise",
+  "description": "Exercise with ES6-Webpack",
   "author": "Iban Balasch",
   "license": "ISC",
   "repository": {
