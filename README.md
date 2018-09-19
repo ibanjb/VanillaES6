@@ -7,8 +7,8 @@
 ![Ajax](https://img.shields.io/badge/Ajax-Done-ff69b4.svg) 
 ![Webpack](https://img.shields.io/badge/Webpack-Done-blue.svg) 
 ![UnitTest](https://img.shields.io/badge/Unit%20tests-Pending-red.svg) 
-![Docker](https://img.shields.io/badge/Docker-Pending-0765fc.svg) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Pending-cadbf7.svg) 
+![Docker](https://img.shields.io/badge/Docker-Pending-red.svg) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Pending-red.svg) 
 
 
 Accordion exercise done with ES6-Webpack-JsonServer
